@@ -1,0 +1,12 @@
+GAME: Free Fire DEVICE: iPhone 13 Pro Max
+
+Graphics: Smooth High FPS: ON
+
+Sensitivity: General: 200 Red Dot: 190 2x Scope: 180 4x Scope: 160
+Sniper: 80 Free Look: 200
+
+Control: Aim Precision: Default Left Fire Button: ON Quick Weapon
+Switch: ON
+
+Note: Đây là cấu hình tham khảo để chỉnh tay trong game, không can thiệp
+hay thay đổi file game.
